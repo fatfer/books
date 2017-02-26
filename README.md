@@ -2,9 +2,9 @@
 
 Indice
 + [Clean Code](#clean-code)
-    1. [Clean Code](#clean-code-1)
-    2. [Meaningful Names](#meaningful-names)
-    3. [Functions](#functions)
+    1. [Clean Code](#1-clean-code)
+    2. [Meaningful Names](#2-meaningful-names)
+    3. [Functions](#3-functions)
 
 ## Clean Code
 ![Clean Code](images/clean_code.jpg "Clean Code")
