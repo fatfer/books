@@ -9,13 +9,13 @@ Indice
 ## Clean Code
 ![Clean Code](images/clean_code.jpg "Clean Code")
 
-##1. Clean Code
+### 1. Clean Code
 ...
 
-##2. Meaningful Names
+### 2. Meaningful Names
 ...
 
-##3. Functions
+### 3. Functions
 
 Functions should be small.
 
