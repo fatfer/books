@@ -1,12 +1,12 @@
 # Clean Code
 
+![Clean Code](../images/clean_code.jpg "Clean Code")
+
 Contents
 
 1. [Clean Code](#1-clean-code)
 1. [Meaningful Names](#2-meaningful-names)
 1. [Functions](#3-functions)
-
-![Clean Code](../images/clean_code.jpg "Clean Code")
 
 ## 1. Clean Code
 
